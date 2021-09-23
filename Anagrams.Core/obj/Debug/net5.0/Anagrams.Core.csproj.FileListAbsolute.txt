@@ -1,0 +1,12 @@
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\bin\Debug\net5.0\Anagrams.Core.deps.json
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\bin\Debug\net5.0\Anagrams.Core.dll
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\bin\Debug\net5.0\ref\Anagrams.Core.dll
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\bin\Debug\net5.0\Anagrams.Core.pdb
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.csproj.AssemblyReference.cache
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.AssemblyInfoInputs.cache
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.AssemblyInfo.cs
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.dll
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\ref\Anagrams.Core.dll
+C:\Users\rafae\Algorithm\KataAnagrams\Anagrams.Core\obj\Debug\net5.0\Anagrams.Core.pdb
